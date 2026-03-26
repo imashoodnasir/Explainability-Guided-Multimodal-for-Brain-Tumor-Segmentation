@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+numpy
+scipy
+scikit-image
+scikit-learn
+nibabel
+opencv-python
+matplotlib
+tqdm
+monai
+medpy
